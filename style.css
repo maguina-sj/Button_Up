@@ -1,0 +1,34 @@
+* {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    
+}
+
+
+#a {
+    color: darkturquoise;
+    display: block;
+    margin-top: 50px;
+    border: darkturquoise 2px;
+    padding: 4px 35px;
+    border: 2px solid darkturquoise;
+    border-radius: 12px;
+    font-weight: bold;
+}
+#b {
+    background-color: darkturquoise;
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 16pt;
+    padding: 5px 11px;
+    border: none;
+    border-radius: 50%;
+}
+#c {
+    background-color: dodgerblue;
+    color: white;
+    font-size: 12pt;
+    padding: 5px 25px;
+    box-shadow: 3px 3px black;
+}
